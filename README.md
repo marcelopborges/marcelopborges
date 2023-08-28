@@ -15,4 +15,4 @@
 
 
 
-*Inspirado em tomar decisões baseado em dados*
+*"Não apenas moldando o fluxo de dados, mas também decifrando seus segredos."*
