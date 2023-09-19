@@ -1,6 +1,6 @@
 ### Olá! me chamo **Marcelo Borges**, seja muito bem-vindo! 🤙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-borges-aab147103/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloperborges/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrcl.pborges)
 
 ![Marcelo Borges's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopborges&show_icons=true&theme=vue)
