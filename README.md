@@ -75,7 +75,7 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-### 🌟 Cortex - Plataforma de Orquestração de Dados e IA
+### Cortex - Plataforma de Orquestração de Dados e IA
 
 **Descrição**: Plataforma de dados e automação voltada para integrar informações de múltiplos sistemas corporativos e transformá-las em serviços analíticos e automações inteligentes.
 
@@ -132,7 +132,7 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-## 📈 Estatísticas
+## Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelopborges&show_icons=true&theme=dark)
 
@@ -199,13 +199,13 @@ Experiência inicial em análise de planejamento, desenvolvimento de relatórios
 
 ---
 
-## 🤝 Vamos Conversar!
+## Vamos Conversar!
 
 Estou sempre aberto para:
-- 💬 Discutir sobre engenharia de dados e IA
-- 🤝 Colaborar em projetos
-- 📧 Oportunidades profissionais
-- 🎓 Mentoria e aprendizado
+- Discutir sobre engenharia de dados e IA
+- Colaborar em projetos
+- Oportunidades profissionais
+- Mentoria e aprendizado
 
 ### Contato
 - **Email**: marcelo.borges@ops-base.com
@@ -213,13 +213,13 @@ Estou sempre aberto para:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Meus projetos open source estão sob licença **Apache 2.0** ou **MIT**. Verifique cada repositório para detalhes específicos.
 
 ---
 
-## 🙏 Agradecimentos
+## Agradecimentos
 
 Obrigado por visitar meu GitHub! Se você achou algo útil, considere dar uma ⭐ nos repositórios que você gostou.
 
