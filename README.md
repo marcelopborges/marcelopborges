@@ -11,6 +11,7 @@ Sou um profissional apaixonado por dados e inteligência artificial com experiê
 - **Análise de Dados**: SQL, Python, estatística aplicada
 - **Automação**: Fluxos operacionais, integração de sistemas, orquestração
 - **Governança de Dados**: Qualidade, segurança, reutilização de dados
+- **Liderança**: Coordenação de equipes de inteligência de negócios e operações
 
 Meu foco é transformar dados em decisões e automações que impulsionam resultados de negócio, especialmente em ambientes corporativos complexos.
 
@@ -141,29 +142,58 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ## 💼 Experiência Profissional
 
-### Engenheiro de Dados - SIAN
-*Atual*
+### Data Engineer - SIAN
+**Soluções Inteligentes de Apoio a Negócios**  
+*Outubro de 2023 - Atualmente (Tempo integral)*  
+Goiânia, Goiás, Brasil
 
-- Desenvolvimento de arquitetura de dados corporativa
-- Criação de pipelines de dados com Python e SQL
-- Implementação de agentes de IA com RAG
-- Orquestração de fluxos com Airflow e n8n
-- Integração de múltiplos sistemas corporativos
-- Suporte a analytics e automação de processos
+Trabalho no desenvolvimento de arquitetura de dados corporativa, criação de pipelines de dados com Python e SQL, implementação de agentes de IA com RAG, orquestração de fluxos com Airflow e n8n, integração de múltiplos sistemas corporativos e suporte a analytics e automação de processos.
 
-### Desenvolvedor Full Stack - Diversos Projetos
-*Anterior*
+**Competências**: SQL, Python, BigQuery, Vertex AI, Airflow, n8n, Arquitetura de Dados, Agentes de IA, RAG, Automação
 
-- Desenvolvimento de aplicações web
-- APIs REST e integração de sistemas
-- Análise e processamento de dados
+---
+
+### HP Transportes Coletivos
+**8 anos 2 meses de experiência**
+
+#### Coordenador de Inteligência de Negócios
+*Abril de 2019 - Outubro de 2023 (4 anos 7 meses)*  
+Goiânia, Goiás
+
+Coordenei equipes de inteligência de negócios e operações, desenvolvendo estratégias analíticas, criando dashboards executivos, implementando processos de análise de dados e apoiando decisões estratégicas da empresa.
+
+**Competências**: Pensamento crítico, Python, Liderança de equipe, Inteligência de negócios, Modelagem de dados, SQL
+
+#### Analista de Desempenho
+*Setembro de 2015 - Abril de 2019 (3 anos 8 meses)*  
+Goiânia, Goiás, Brasil
+
+Realizei análises de desempenho operacional, desenvolvimento de relatórios analíticos, identificação de oportunidades de otimização de processos e apoio a tomada de decisão baseada em dados.
+
+**Competências**: Pensamento crítico, Insights de negócios, Análise de dados, Relatórios, Modelagem de dados
+
+---
+
+### Analista de Planejamento - Agroshop
+*Junho de 2015 - Setembro de 2015 (4 meses)*
+
+Análise de planejamento e processos, desenvolvimento de relatórios e insights para suporte à gestão.
+
+---
+
+### Analista de Planejamento - BrasilCenter
+*Dezembro de 2007 - Dezembro de 2014 (7 anos 1 mês)*  
+Goiânia e Região
+
+Experiência inicial em análise de planejamento, desenvolvimento de relatórios e suporte a processos de negócio em diversos setores.
 
 ---
 
 ## 🎓 Educação & Certificações
 
-- **Engenharia de Dados**: Experiência prática em arquitetura de dados corporativa
-- **Inteligência Artificial**: Desenvolvimento de agentes com LLMs e RAG
+- **Pós-graduação em Engenharia de Dados**: Instituto Infnet
+- **Formação em Rede de Computadores**: Educação técnica
+- **Experiência Prática**: Arquitetura de dados corporativa, pipelines em produção, agentes de IA
 - **Google Cloud**: Experiência com BigQuery, Vertex AI, Cloud Functions
 - **Autodidata**: Foco contínuo em novas tecnologias e melhores práticas
 
