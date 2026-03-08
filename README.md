@@ -1,230 +1,245 @@
-# Marcelo Borges - Engenheiro de Dados & IA
+# Marcelo Borges — Engenharia de Dados e IA Aplicada a Negócios
 
-Bem-vindo ao meu GitHub! Sou engenheiro de dados especializado em **construir sistemas inteligentes que resolvem problemas reais de negócio**, com foco em arquitetura de dados, automação e agentes de IA.
+Sou engenheiro de dados especializado em transformar dados em sistemas analíticos e inteligentes capazes de resolver problemas reais de negócio.
 
-## Sobre Mim
+Minha experiência envolve arquitetura de dados, construção de pipelines analíticos, integração de sistemas corporativos, automação de processos e desenvolvimento de agentes de inteligência artificial para suporte operacional e tomada de decisão.
 
-Sou um profissional apaixonado por dados e inteligência artificial com experiência em:
-
-- **Engenharia de Dados**: Arquitetura de dados, pipelines, ETL, integração de sistemas
-- **Agentes de IA**: Desenvolvimento de agentes inteligentes com RAG, automação de processos
-- **Análise de Dados**: SQL, Python, estatística aplicada
-- **Automação**: Fluxos operacionais, integração de sistemas, orquestração
-- **Governança de Dados**: Qualidade, segurança, reutilização de dados
-- **Liderança**: Coordenação de equipes de inteligência de negócios e operações
-
-Meu foco é transformar dados em decisões e automações que impulsionam resultados de negócio, especialmente em ambientes corporativos complexos.
+Ao longo da carreira tenho trabalhado na construção de plataformas de dados que integram múltiplos sistemas empresariais e transformam dados operacionais em informação estratégica.
 
 ---
 
-## Tecnologias & Ferramentas
+# Iniciativa Open Source
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+Sou criador da iniciativa **Dados para Negócios**, um projeto educacional open source voltado para ensinar como utilizar dados para resolver problemas reais em empresas.
 
-### Plataformas & Cloud
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+O objetivo é mostrar, de forma prática, como estruturar dados desde a coleta até a análise e disponibilização de informação para suporte à decisão.
 
-### Ferramentas de Dados & IA
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+Os projetos incluem:
 
-### Ferramentas de Integração & Orquestração
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat&logo=n8n&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google&logoColor=white)
-
-### DevOps & Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- coleta de dados públicos  
+- pipelines de dados open source  
+- análise de mercado e comportamento  
+- exemplos de aplicação de dados em problemas de negócio  
+- projetos educacionais para profissionais de tecnologia e áreas de negócio  
 
 ---
 
-## Projetos em Produção
+# Áreas de Atuação
 
-### SIANI - Agente de Governança e Conhecimento Organizacional
+Minha atuação está concentrada em:
 
-**Descrição**: Agente de IA desenvolvido para apoiar na gestão do conhecimento dentro da organização.
+**Engenharia de Dados**  
+Arquitetura de pipelines, integração de sistemas, modelagem analítica e data warehouses.
 
-**O que faz**: Integra bases internas de documentação, processos e sistemas para permitir consultas inteligentes e automação de fluxos operacionais.
+**Agentes de IA**  
+Desenvolvimento de agentes inteligentes com RAG para automação de processos e acesso a conhecimento corporativo.
 
-**Objetivos Principais**:
-- Centralizar conhecimento corporativo
-- Automatizar atendimento interno de TI
-- Facilitar acesso a processos e informações
-- Apoiar tomada de decisão baseada em dados
+**Análise de Dados**  
+Uso de Python, SQL e estatística aplicada para geração de insights e apoio à decisão.
 
-**Tecnologias**:
-- Arquitetura de agentes
-- RAG (Retrieval Augmented Generation)
-- Integrações com sistemas corporativos
-- Automação de fluxos operacionais
-- Python, LangChain, Vertex AI
+**Automação de Processos**  
+Construção de fluxos automatizados integrando sistemas corporativos e dados analíticos.
 
-**Impacto**: Redução de tempo em consultas internas, automação de processos repetitivos, acesso centralizado ao conhecimento corporativo.
+**Governança de Dados**  
+Qualidade, segurança, organização e reutilização de dados dentro de ambientes corporativos.
 
 ---
 
-### Cortex - Plataforma de Orquestração de Dados e IA
+# Tecnologias e Ferramentas
 
-**Descrição**: Plataforma de dados e automação voltada para integrar informações de múltiplos sistemas corporativos e transformá-las em serviços analíticos e automações inteligentes.
+## Linguagens
 
-**O que faz**: O Cortex atua como um hub de decisão, conectando pipelines de dados, modelos analíticos e agentes inteligentes.
+Python  
+SQL  
+PL/pgSQL  
+Bash  
 
-**Objetivos Principais**:
-- Integrar dados de diferentes áreas da empresa
-- Criar serviços analíticos reutilizáveis
-- Automatizar processos baseados em dados
-- Suportar aplicações de IA e analytics
+## Plataformas e Cloud
 
-**Características Principais**:
-- Arquitetura modular e orientada a serviços
-- Pipelines de dados e integração com múltiplas fontes
-- Suporte a agentes e automações
-- Foco em governança e reutilização de dados
+Google Cloud Platform  
 
-**Tecnologias**:
-- Python, SQL
-- BigQuery (Data Warehouse)
-- Airflow (Orquestração)
-- Vertex AI (Modelos de IA)
-- n8n (Automação de fluxos)
+## Ferramentas de Dados e IA
 
-**Impacto**: Integração centralizada de dados corporativos, redução de silos de informação, aceleração de projetos de IA e analytics.
+BigQuery  
+Vertex AI  
+LangChain  
+Pandas  
+NumPy  
 
----
+## Orquestração e Automação
 
-### Argos - Detecção de Anomalias em ERP Protheus
+Apache Airflow  
+n8n  
 
-**Descrição**: Sistema de análise de dados voltado para identificar padrões anômalos em processos do ERP Protheus.
+## Bancos de Dados
 
-**O que faz**: Analisa transações e processos para detectar comportamentos atípicos, aumentando transparência e reduzindo riscos operacionais.
+PostgreSQL  
+BigQuery  
 
-**Objetivos Principais**:
-- Identificar comportamentos atípicos em processos
-- Detectar possíveis irregularidades ou fraudes
-- Apoiar auditorias internas
-- Melhorar governança operacional
+## Infraestrutura e DevOps
 
-**Abordagens Utilizadas**:
-- Análise estatística de padrões
-- Detecção de anomalias
-- Análise temporal de transações
-- Modelagem de dados para processos ERP
-
-**Tecnologias**:
-- Python (análise e modelagem)
-- SQL (extração de dados)
-- BigQuery (processamento em escala)
-- Pandas, NumPy (análise estatística)
-
-**Impacto**: Redução de riscos operacionais, detecção proativa de irregularidades, suporte a conformidade e auditoria.
+Docker  
+Git  
+GitHub  
 
 ---
 
-## Estatísticas
+# Arquitetura e Soluções
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelopborges&show_icons=true&theme=dark)
+Tenho experiência em projetar arquiteturas de dados para:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopborges&layout=compact&theme=dark)
+- integração de múltiplos sistemas corporativos  
+- construção de pipelines analíticos e data warehouses  
+- automação de processos baseados em dados  
+- desenvolvimento de agentes de IA para suporte operacional  
+- detecção de padrões e anomalias em processos de negócio  
 
----
-
-## Experiência Profissional
-
-### Data Engineer / Coordenador de Dados, IA e Automação - SIAN
-**Soluções Inteligentes de Apoio a Negócios**  
-*Outubro de 2023 - Atualmente (Tempo integral)*  
-Goiânia, Goiás, Brasil
-
-Trabalho no desenvolvimento de arquitetura de dados corporativa, criação de pipelines de dados com Python e SQL, implementação de agentes de IA com RAG, orquestração de fluxos com Airflow e n8n, integração de múltiplos sistemas corporativos e suporte a analytics e automação de processos.
-
-**Competências**: SQL, Python, BigQuery, Vertex AI, Airflow, n8n, Arquitetura de Dados, Agentes de IA, RAG, Automação
+Essas arquiteturas permitem transformar dados operacionais em serviços analíticos reutilizáveis e aplicações inteligentes.
 
 ---
 
-### HP Transportes Coletivos
-**8 anos 2 meses de experiência**
+# Projetos em Produção
 
-#### Coordenador de Inteligência de Negócios
-*Abril de 2019 - Outubro de 2023 (4 anos 7 meses)*  
-Goiânia, Goiás
+## SIANI — Agente de Governança e Conhecimento Organizacional
 
-Coordenei equipes de inteligência de negócios e operações, desenvolvendo estratégias analíticas, criando estudos executivos, implementando processos de análise de dados e apoiando decisões estratégicas da empresa.
+Sistema de agente de IA desenvolvido para apoiar a gestão do conhecimento dentro da organização.
 
-**Competências**: Pensamento crítico, Python, Liderança de equipe, Inteligência de negócios, Modelagem de dados, SQL
+O SIANI integra bases internas de documentação, processos e sistemas corporativos para permitir consultas inteligentes e automação de fluxos operacionais.
 
-#### Analista de Desempenho
-*Setembro de 2015 - Abril de 2019 (3 anos 8 meses)*  
-Goiânia, Goiás, Brasil
+### Principais objetivos
 
-Realizei análises de desempenho operacional, desenvolvimento de relatórios analíticos, identificação de oportunidades de otimização de processos e apoio a tomada de decisão baseada em dados.
+- centralizar conhecimento corporativo  
+- automatizar atendimento interno de TI  
+- facilitar acesso a processos e informações  
+- apoiar tomada de decisão baseada em dados  
 
-**Competências**: Pensamento crítico, Insights de negócios, Análise de dados, Relatórios, Modelagem de dados
+### Tecnologias
 
----
+Python  
+LangChain  
+Vertex AI  
+Arquitetura de agentes  
+RAG (Retrieval Augmented Generation)
 
-### Analista de Planejamento - Agroshop
-*Junho de 2015 - Setembro de 2015 (4 meses)*
+### Impacto
 
-Análise de planejamento e processos, desenvolvimento de relatórios e insights para suporte à gestão.
-
----
-
-### Analista de Planejamento - BrasilCenter
-*Dezembro de 2007 - Dezembro de 2014 (7 anos 1 mês)*  
-Goiânia e Região
-
-Experiência inicial em análise de planejamento, desenvolvimento de relatórios e suporte a processos de negócio em diversos setores.
+- redução do tempo de busca por informações internas  
+- automação de processos repetitivos  
+- acesso centralizado ao conhecimento corporativo  
 
 ---
 
-## 🎓 Educação & Certificações
+## Cortex — Plataforma Corporativa de Dados e IA
 
-- **Pós-graduação em Engenharia de Dados**: Instituto Infnet
-- **Formação em Rede de Computadores**: Educação técnica
-- **Experiência Prática**: Arquitetura de dados corporativa, pipelines em produção, agentes de IA
-- **Google Cloud**: Experiência com BigQuery, Vertex AI, Cloud Functions
-- **Autodidata**: Foco contínuo em novas tecnologias e melhores práticas
+Plataforma de dados e automação voltada para integrar informações de múltiplos sistemas corporativos e transformá-las em serviços analíticos e automações inteligentes.
 
----
+O Cortex funciona como um hub de decisão, conectando pipelines de dados, modelos analíticos e agentes de IA.
 
-## Vamos Conversar!
+### Principais objetivos
 
-Estou sempre aberto para:
-- Discutir sobre engenharia de dados e IA
-- Colaborar em projetos
-- Oportunidades profissionais
-- Mentoria e aprendizado
+- integrar dados de diferentes áreas da empresa  
+- criar serviços analíticos reutilizáveis  
+- automatizar processos baseados em dados  
+- suportar aplicações de inteligência artificial e analytics  
 
-### Contato
-- **Email**: marcelo.borges@ops-base.com
-- **LinkedIn**: https://www.linkedin.com/in/marceloperborges/
+### Tecnologias
 
----
+Python  
+SQL  
+BigQuery  
+Apache Airflow  
+Vertex AI  
+n8n  
 
-## Licença
+### Impacto
 
-Meus projetos open source estão sob licença **Apache 2.0** ou **MIT**. Verifique cada repositório para detalhes específicos.
-
----
-
-## Agradecimentos
-
-Obrigado por visitar meu GitHub! Se você achou algo útil, considere dar uma ⭐ nos repositórios que você gostou.
+- integração centralizada de dados corporativos  
+- redução de silos de informação  
+- aceleração de projetos de analytics e inteligência artificial  
 
 ---
 
-**Última atualização**: Março 2026
+## Argos — Detecção de Anomalias em ERP
 
-*"Dados e inteligência artificial transformam decisões em resultados."*
+Sistema de análise de dados voltado para identificar padrões anômalos em processos do ERP Protheus.
+
+O Argos analisa transações e comportamentos operacionais para detectar irregularidades e apoiar auditorias internas.
+
+### Principais objetivos
+
+- identificar comportamentos atípicos em processos  
+- detectar possíveis irregularidades ou fraudes  
+- apoiar auditorias internas  
+- melhorar governança operacional  
+
+### Tecnologias
+
+Python  
+SQL  
+BigQuery  
+Pandas  
+NumPy  
+
+### Abordagens utilizadas
+
+- análise estatística de padrões  
+- detecção de anomalias  
+- análise temporal de transações  
+- modelagem de dados aplicada a processos ERP  
+
+### Impacto
+
+- redução de riscos operacionais  
+- detecção proativa de irregularidades  
+- suporte a processos de auditoria e conformidade  
+
+---
+
+# Experiência Profissional
+
+## Coordenador de Dados, IA e Automação — SIAN
+
+Responsável pela arquitetura de dados corporativa, desenvolvimento de pipelines analíticos, integração de sistemas e implementação de agentes de inteligência artificial para automação e suporte à decisão.
+
+Tecnologias utilizadas incluem Python, SQL, BigQuery, Vertex AI, Airflow e n8n.
+
+---
+
+## HP Transportes Coletivos
+
+Atuação por mais de oito anos em inteligência de negócios e análise operacional.
+
+Responsável por coordenação de equipes analíticas, desenvolvimento de estudos executivos, modelagem de dados e suporte a decisões estratégicas da empresa.
+
+---
+
+# Educação
+
+Pós-graduação em Engenharia de Dados — Instituto Infnet  
+
+Formação em Redes de Computadores  
+
+Experiência prática em arquitetura de dados corporativa, pipelines analíticos e sistemas de inteligência artificial aplicados ao negócio.
+
+---
+
+# Contato
+
+Marcelo Borges  
+Engenharia de Dados e IA aplicada a negócios  
+
+Email  
+marcelo.borges@ops-base.com  
+
+LinkedIn  
+https://www.linkedin.com/in/marceloperborges/
+
+---
+
+# Licença
+
+Os projetos open source são disponibilizados sob licença MIT ou Apache 2.0, conforme definido em cada repositório.
+
+---
+
+Dados bem estruturados transformam informação em decisões e decisões em resultados.
