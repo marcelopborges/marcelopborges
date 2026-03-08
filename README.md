@@ -1,8 +1,8 @@
-# 👋 Marcelo Borges - Engenheiro de Dados & IA
+# Marcelo Borges - Engenheiro de Dados & IA
 
 Bem-vindo ao meu GitHub! Sou engenheiro de dados especializado em **construir sistemas inteligentes que resolvem problemas reais de negócio**, com foco em arquitetura de dados, automação e agentes de IA.
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
 Sou um profissional apaixonado por dados e inteligência artificial com experiência em:
 
@@ -17,7 +17,7 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,11 +50,11 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-## 📊 Projetos em Produção
+## Projetos em Produção
 
-### 🌟 SIANI - Agente de Governança e Conhecimento Organizacional
+### SIANI - Agente de Governança e Conhecimento Organizacional
 
-**Descrição**: Agente de IA desenvolvido para apoiar governança de TI e gestão do conhecimento dentro da organização.
+**Descrição**: Agente de IA desenvolvido para apoiar na gestão do conhecimento dentro da organização.
 
 **O que faz**: Integra bases internas de documentação, processos e sistemas para permitir consultas inteligentes e automação de fluxos operacionais.
 
@@ -104,7 +104,7 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-### 🌟 Argos - Detecção de Anomalias em ERP Protheus
+### Argos - Detecção de Anomalias em ERP Protheus
 
 **Descrição**: Sistema de análise de dados voltado para identificar padrões anômalos em processos do ERP Protheus.
 
@@ -140,9 +140,9 @@ Meu foco é transformar dados em decisões e automações que impulsionam result
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
-### Data Engineer - SIAN
+### Data Engineer / Coordenador de Dados, IA e Automação - SIAN
 **Soluções Inteligentes de Apoio a Negócios**  
 *Outubro de 2023 - Atualmente (Tempo integral)*  
 Goiânia, Goiás, Brasil
@@ -160,7 +160,7 @@ Trabalho no desenvolvimento de arquitetura de dados corporativa, criação de pi
 *Abril de 2019 - Outubro de 2023 (4 anos 7 meses)*  
 Goiânia, Goiás
 
-Coordenei equipes de inteligência de negócios e operações, desenvolvendo estratégias analíticas, criando dashboards executivos, implementando processos de análise de dados e apoiando decisões estratégicas da empresa.
+Coordenei equipes de inteligência de negócios e operações, desenvolvendo estratégias analíticas, criando estudos executivos, implementando processos de análise de dados e apoiando decisões estratégicas da empresa.
 
 **Competências**: Pensamento crítico, Python, Liderança de equipe, Inteligência de negócios, Modelagem de dados, SQL
 
