@@ -1,51 +1,47 @@
-# Marcelo Borges — Engenharia de Dados e IA Aplicada a Negócios
+# Marcelo Borges
 
-Sou engenheiro de dados especializado em transformar dados em sistemas analíticos e inteligentes capazes de resolver problemas reais de negócio.
+Engenheiro de Dados especializado em transformar dados em sistemas analíticos e soluções de inteligência capazes de resolver problemas reais de negócio.
 
-Minha experiência envolve arquitetura de dados, construção de pipelines analíticos, integração de sistemas corporativos, automação de processos e desenvolvimento de agentes de inteligência artificial para suporte operacional e tomada de decisão.
-
-Ao longo da carreira tenho trabalhado na construção de plataformas de dados que integram múltiplos sistemas empresariais e transformam dados operacionais em informação estratégica.
+Tenho experiência na construção de plataformas de dados, pipelines analíticos, integração de sistemas corporativos, automação de processos e desenvolvimento de agentes de inteligência artificial para suporte à decisão.
 
 ---
 
-# Iniciativa Open Source
+# Dados para Negócios
 
-Sou criador da iniciativa **Dados para Negócios**, um projeto educacional open source voltado para ensinar como utilizar dados para resolver problemas reais em empresas.
+Sou criador da iniciativa **Dados para Negócios**, um projeto open source voltado para ensinar como utilizar dados para resolver problemas reais em empresas.
 
-O objetivo é mostrar, de forma prática, como estruturar dados desde a coleta até a análise e disponibilização de informação para suporte à decisão.
+A proposta é mostrar de forma prática como estruturar dados desde a coleta até a análise e disponibilização de informações para suporte à decisão.
 
 Os projetos incluem:
 
 - coleta de dados públicos  
 - pipelines de dados open source  
 - análise de mercado e comportamento  
-- exemplos de aplicação de dados em problemas de negócio  
+- exemplos práticos de aplicação de dados em negócios  
 - projetos educacionais para profissionais de tecnologia e áreas de negócio  
 
 ---
 
 # Áreas de Atuação
 
-Minha atuação está concentrada em:
-
-**Engenharia de Dados**  
+## Engenharia de Dados
 Arquitetura de pipelines, integração de sistemas, modelagem analítica e data warehouses.
 
-**Agentes de IA**  
-Desenvolvimento de agentes inteligentes com RAG para automação de processos e acesso a conhecimento corporativo.
+## Agentes de Inteligência Artificial
+Desenvolvimento de agentes com RAG para automação de processos e acesso a conhecimento corporativo.
 
-**Análise de Dados**  
-Uso de Python, SQL e estatística aplicada para geração de insights e apoio à decisão.
+## Análise de Dados
+Uso de Python, SQL e estatística aplicada para geração de insights e suporte à decisão.
 
-**Automação de Processos**  
-Construção de fluxos automatizados integrando sistemas corporativos e dados analíticos.
+## Automação de Processos
+Integração de sistemas e construção de fluxos automatizados baseados em dados.
 
-**Governança de Dados**  
-Qualidade, segurança, organização e reutilização de dados dentro de ambientes corporativos.
+## Governança de Dados
+Organização, qualidade, segurança e reutilização de dados em ambientes corporativos.
 
 ---
 
-# Tecnologias e Ferramentas
+# Tecnologias
 
 ## Linguagens
 
@@ -54,11 +50,7 @@ SQL
 PL/pgSQL  
 Bash  
 
-## Plataformas e Cloud
-
-Google Cloud Platform  
-
-## Ferramentas de Dados e IA
+## Dados e IA
 
 BigQuery  
 Vertex AI  
@@ -71,12 +63,12 @@ NumPy
 Apache Airflow  
 n8n  
 
-## Bancos de Dados
+## Banco de Dados
 
 PostgreSQL  
 BigQuery  
 
-## Infraestrutura e DevOps
+## Infraestrutura
 
 Docker  
 Git  
@@ -84,65 +76,59 @@ GitHub
 
 ---
 
-# Arquitetura e Soluções
+# Arquitetura de Soluções
 
-Tenho experiência em projetar arquiteturas de dados para:
+Experiência em arquiteturas de dados voltadas para:
 
 - integração de múltiplos sistemas corporativos  
-- construção de pipelines analíticos e data warehouses  
-- automação de processos baseados em dados  
-- desenvolvimento de agentes de IA para suporte operacional  
+- construção de pipelines analíticos  
+- criação de data warehouses  
+- automação de processos operacionais  
+- desenvolvimento de agentes de IA  
 - detecção de padrões e anomalias em processos de negócio  
 
-Essas arquiteturas permitem transformar dados operacionais em serviços analíticos reutilizáveis e aplicações inteligentes.
+Arquiteturas desse tipo permitem transformar dados operacionais em serviços analíticos reutilizáveis e aplicações inteligentes.
 
 ---
 
 # Projetos em Produção
 
-## SIANI — Agente de Governança e Conhecimento Organizacional
+## SIANI
 
-Sistema de agente de IA desenvolvido para apoiar a gestão do conhecimento dentro da organização.
+Agente de IA para governança e gestão do conhecimento organizacional.
 
-O SIANI integra bases internas de documentação, processos e sistemas corporativos para permitir consultas inteligentes e automação de fluxos operacionais.
+Integra documentação, processos e sistemas corporativos para permitir consultas inteligentes e automação de fluxos operacionais.
 
-### Principais objetivos
+Principais objetivos:
 
 - centralizar conhecimento corporativo  
-- automatizar atendimento interno de TI  
+- automatizar atendimento interno  
 - facilitar acesso a processos e informações  
-- apoiar tomada de decisão baseada em dados  
+- apoiar decisões baseadas em dados  
 
-### Tecnologias
+Tecnologias:
 
 Python  
 LangChain  
 Vertex AI  
-Arquitetura de agentes  
-RAG (Retrieval Augmented Generation)
-
-### Impacto
-
-- redução do tempo de busca por informações internas  
-- automação de processos repetitivos  
-- acesso centralizado ao conhecimento corporativo  
+RAG  
 
 ---
 
-## Cortex — Plataforma Corporativa de Dados e IA
+## Cortex
 
-Plataforma de dados e automação voltada para integrar informações de múltiplos sistemas corporativos e transformá-las em serviços analíticos e automações inteligentes.
+Plataforma corporativa de dados e automação.
 
-O Cortex funciona como um hub de decisão, conectando pipelines de dados, modelos analíticos e agentes de IA.
+Integra dados de múltiplos sistemas e os transforma em serviços analíticos e automações inteligentes.
 
-### Principais objetivos
+Principais objetivos:
 
 - integrar dados de diferentes áreas da empresa  
 - criar serviços analíticos reutilizáveis  
 - automatizar processos baseados em dados  
-- suportar aplicações de inteligência artificial e analytics  
+- suportar aplicações de analytics e IA  
 
-### Tecnologias
+Tecnologias:
 
 Python  
 SQL  
@@ -151,28 +137,22 @@ Apache Airflow
 Vertex AI  
 n8n  
 
-### Impacto
-
-- integração centralizada de dados corporativos  
-- redução de silos de informação  
-- aceleração de projetos de analytics e inteligência artificial  
-
 ---
 
-## Argos — Detecção de Anomalias em ERP
+## Argos
 
-Sistema de análise de dados voltado para identificar padrões anômalos em processos do ERP Protheus.
+Sistema de análise de dados para detecção de anomalias em processos do ERP.
 
-O Argos analisa transações e comportamentos operacionais para detectar irregularidades e apoiar auditorias internas.
+Analisa transações e comportamentos operacionais para identificar irregularidades e apoiar auditorias internas.
 
-### Principais objetivos
+Principais abordagens:
 
-- identificar comportamentos atípicos em processos  
-- detectar possíveis irregularidades ou fraudes  
-- apoiar auditorias internas  
-- melhorar governança operacional  
+- análise estatística de padrões  
+- detecção de anomalias  
+- análise temporal de transações  
+- modelagem de dados aplicada a processos ERP  
 
-### Tecnologias
+Tecnologias:
 
 Python  
 SQL  
@@ -180,65 +160,41 @@ BigQuery
 Pandas  
 NumPy  
 
-### Abordagens utilizadas
-
-- análise estatística de padrões  
-- detecção de anomalias  
-- análise temporal de transações  
-- modelagem de dados aplicada a processos ERP  
-
-### Impacto
-
-- redução de riscos operacionais  
-- detecção proativa de irregularidades  
-- suporte a processos de auditoria e conformidade  
-
 ---
 
 # Experiência Profissional
 
-## Coordenador de Dados, IA e Automação — SIAN
+## SIAN
+Coordenador de Dados, IA e Automação
 
-Responsável pela arquitetura de dados corporativa, desenvolvimento de pipelines analíticos, integração de sistemas e implementação de agentes de inteligência artificial para automação e suporte à decisão.
-
-Tecnologias utilizadas incluem Python, SQL, BigQuery, Vertex AI, Airflow e n8n.
+Responsável pela arquitetura de dados corporativa, desenvolvimento de pipelines analíticos e implementação de agentes de inteligência artificial para automação e suporte à decisão.
 
 ---
 
 ## HP Transportes Coletivos
 
-Atuação por mais de oito anos em inteligência de negócios e análise operacional.
-
-Responsável por coordenação de equipes analíticas, desenvolvimento de estudos executivos, modelagem de dados e suporte a decisões estratégicas da empresa.
+Atuação por mais de oito anos em inteligência de negócios e análise operacional, com foco em modelagem de dados, análises estratégicas e suporte a decisões corporativas.
 
 ---
 
 # Educação
 
-Pós-graduação em Engenharia de Dados — Instituto Infnet  
+Pós-graduação em Engenharia de Dados  
+Instituto Infnet
 
-Formação em Redes de Computadores  
-
-Experiência prática em arquitetura de dados corporativa, pipelines analíticos e sistemas de inteligência artificial aplicados ao negócio.
+Formação em Redes de Computadores
 
 ---
 
 # Contato
 
 Marcelo Borges  
-Engenharia de Dados e IA aplicada a negócios  
 
 Email  
-marcelo.borges@ops-base.com  
+marcelo.borges@ops-base.com
 
 LinkedIn  
 https://www.linkedin.com/in/marceloperborges/
-
----
-
-# Licença
-
-Os projetos open source são disponibilizados sob licença MIT ou Apache 2.0, conforme definido em cada repositório.
 
 ---
 
